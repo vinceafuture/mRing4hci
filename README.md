@@ -43,9 +43,11 @@ mRing combines:
 - **mic input** for voice input
 - **IMU** for gesture computing and awakening of the Ring
 - **Laser pointer** for off-screen notification or guidance of real-world manipulation
-- **6nm customized ASIC** for computing of gesture and screen location
+- **6nm customized ASIC MR1** for computing of gesture and screen location
 - **battery and charging point**
 - **bluetooth** for connection with computing device like PC/Phone/TV
+
+![MR1_interface](images/MR1_interface.png)
 
 The result is a new human–machine interface that merges complete function GUI operation and real world manipulation into a single device.
 
