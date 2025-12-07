@@ -1,6 +1,6 @@
-**mRing**: wearable multimodal smart Ring for HCI.
+<img width="1057" height="450" alt="image" src="https://github.com/user-attachments/assets/ab106051-874f-4dce-b0ca-94fc87a4ef63" />**mRing**: wearable multimodal smart Ring for HCI.
 
-A thumb-worn smart ring, callled "mRing", is designed to support multimodal interactions with computers/TV/AI. Users can use it to replace mouse&keyboard or remoter, extend human-computer interaction beyond screens, and enable intuitive control of robots and smart home systems.
+A thumb-worn smart ring, callled "mRing", is designed to support multimodal interactions with computers/TV/AI. Users can use it to replace mouse&keyboard or remoter, extend human-computer interaction beyond screens, and enable intuitive manipulation of robots and smart home systems.
 
 ![mRing overview](images/mRing_overview.png)
 
@@ -16,14 +16,15 @@ Seeing him develop early symptoms of wrist stress and other issue forced me to r
 
 This question led me to create **mRing**, an input device that compliants to GUI operation on PC/TV/Pad and aligns with the next decade of AI-native interaction.
 
+![PC mouse issue](images/PC_mouse_issue.png)
+
 ### The broader vision  
 mRing aims to become all-in-one input device:
 
 - A **replacement** or alternative to the mouse&keyboard / multi-touch / remoter / laser-pen
 - A **most convenient method** for Voice input
-- A **best method** for circle-to-X on screen
-- A **intuitive controller** for robots and home smart devices  
-- The foundational hardware for a future interaction OS (ZingOS)
+- A **best method** for circle-to-X operation which is getting popular for AI interaction
+- A **magic wand** for intuitive manipulation of robots and smart home devices 
 
 ---
 
@@ -31,16 +32,17 @@ mRing aims to become all-in-one input device:
 
 mRing combines:
 
-- **Thumb-worn form factor** (finger-based interaction)
-- **Gesture recognition** (inside finger camera + IMU options depending on version)
-- **screen positioning** (outside scene camera-based)  
-- **Laser pointer** for off-screen notice or real-world object selection  
-- **Voice capture** for multimodal AI commands  
-- **Multiple input modes** via thumb-joint touches  
-- **Task-level control** for robots and smart home systems  
-- **Custom low-power chip (MR1)** under design for wearable HCI
+- **Thumb-worn form factor**
+- **inside finger camera** for finger gesture capture
+- **outside scene camera** for screen positioning or real-world scene capture
+- **mic input** for voice input
+- **IMU** for gesture computing and awakening of the Ring
+- **Laser pointer** for off-screen notification or guidance of real-world manipulation
+- **6nm customized ASIC** for computing of gesture and screen location
+- **battery and charging point**
+- **bluetooth** for connection with computing device like PC/Phone/TV
 
-The result is a new human–machine interface that merges pointing, selection, gesture, and speech into a single device.
+The result is a new human–machine interface that merges complete function GUI operation and real world manipulation into a single device.
 
 ---
 
