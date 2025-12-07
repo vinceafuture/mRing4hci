@@ -1,4 +1,4 @@
-**mRing**: wearable multimodal Smart Ring for HCI.
+**mRing**: wearable multimodal smart Ring for HCI.
 
 A thumb-worn smart ring, callled "mRing", is designed to support multimodal interactions with computers/TV/AI. Users can use it to replace mouse&keyboard or remoter, extend human-computer interaction beyond screens, and enable intuitive control of robots and smart home systems.
 
