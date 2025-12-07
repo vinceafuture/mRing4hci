@@ -16,7 +16,7 @@ Seeing him develop early symptoms of wrist stress and other issue forced me to r
 
 **Why are we still using mouse and keyboard — technologies invented 40 years ago — in a world with AI computing, multimodal input and versatile screens, and intelligent agents?**
 
-This question led me to create **mRing**, an input device that compliants to GUI operation on PC/TV/Pad and aligns with the next decade of AI-native interaction.
+This question led me to create **mRing**, an input device that compliants to GUI operation on PC/TV/Pad, inlcuding screen positioning and common operations. mRing also aligns with the next decade of AI-native interaction.
 
 ![mRing_capability](images/mRing_capability.png)
 
