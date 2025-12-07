@@ -18,13 +18,18 @@ Seeing him develop early symptoms of wrist stress and other issue forced me to r
 
 This question led me to create **mRing**, an input device that compliants to GUI operation on PC/TV/Pad and aligns with the next decade of AI-native interaction.
 
+![mRing_capability](images/mRing_capability.png)
+
 ### The broader vision  
 mRing aims to become all-in-one input device:
 
 - A **replacement** or alternative to the mouse&keyboard / multi-touch / remoter / laser-pen
 - A **most convenient method** for Voice input
 - A **best method** for circle-to-X operation which is getting popular for AI interaction
-- A **magic wand** for intuitive manipulation of robots and smart home devices 
+- A **magic stick** for intuitive manipulation of robots and smart home devices 
+
+![unified_hmi](images/unified_hmi.png)
+![real_world_manu](images/real_world_manu.png)
 
 ---
 
