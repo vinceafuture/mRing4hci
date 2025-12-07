@@ -12,11 +12,11 @@ A thumb-worn smart ring, callled "mRing", is designed to support multimodal inte
 My teenage son plays PC games like HOI4 and Cards for hours every day, and also watches game related videos to improve gaming performance.  
 Seeing him develop early symptoms of wrist stress and other issue forced me to rethink the input devices we all still rely on.
 
+![PC mouse issue](images/PC_mouse_issue.png)
+
 **Why are we still using mouse and keyboard — technologies invented 40 years ago — in a world with AI computing, multimodal input and versatile screens, and intelligent agents?**
 
 This question led me to create **mRing**, an input device that compliants to GUI operation on PC/TV/Pad and aligns with the next decade of AI-native interaction.
-
-![PC mouse issue](images/PC_mouse_issue.png)
 
 ### The broader vision  
 mRing aims to become all-in-one input device:
