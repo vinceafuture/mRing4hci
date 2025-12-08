@@ -15,25 +15,13 @@ Also it use a outside scene cam to capture display in the scene and use it with 
 ## 🌟 Why mRing?
 
 ### The personal motivation  
-I am a 15+ year IC and system enginer. I have a teenage son who likes much to play PC games like HOI4/Cards and watch related videos to learn how to play.
-Seeing him always sit whole day to play and develop early symptoms of wrist stress and other issue forced me to rethink the input devices we all still rely on.
+I have a 8th grade son who likes much to play PC games like HOI4/Cards and watch related videos to learn how to play. I started worrying about his wrist, posture, and long-term health.
 
-![PC mouse issue](images/PC_mouse_issue.png)
-
-**Why are we still using mouse and keyboard in a world with AI computing, mature voice tech and powerful agents?**
-**Can we control the PC over the air while standing or laying down?**
+Since AI chip and algorithms are so powerful now(I am an IC/FPGA design engineer), i thought if we can make a camera based input device to control PC in the air while standing, leaning back, or lying down.
 
 This question led me to create **mRing**: it supports complex GUI operation and keyboard input on PC, inlcuding cursor positioning, common GUI operations, numbers/letters input, voice input control and newly popular AI enabled circle-to-X operations. 
 
 ![mRing_capability](images/mRing_capability.png)
-
-### The broader vision  
-mRing aims to become all-in-one input device:
-
-- A **replacement** or alternative to the mouse&keyboard / multi-touch / remote control / laser-pen
-- A **most natural** method for Voice input
-- A **best method** for circle-to-X operation which is getting popular for interaction with AI
-- A **magic stick** for intuitive manipulation of robots and smart home devices 
 
 ---
 
@@ -91,6 +79,16 @@ mRing captures the laser spot + context + voice and sends to Hosts/Robots to gen
 
 - **/images/**  
   Overview, Interaction diagrams, hardware block diagrams, and system-level flows.
+
+---
+
+### The broader vision  
+mRing aims to become all-in-one input device:
+
+- A **replacement** or alternative to the mouse&keyboard / multi-touch / remote control / laser-pen
+- A **most natural** method for Voice input
+- A **best method** for circle-to-X operation which is getting popular for interaction with AI
+- A **magic stick** for intuitive manipulation of robots and smart home devices
 
 ---
 
