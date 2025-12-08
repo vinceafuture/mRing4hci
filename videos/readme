@@ -1,1 +1,13 @@
-videos list:
+videos content:
+
+mRing concpet design worn on thumb
+mRing operations:
+  - click, right click
+  - cursor positioning
+  - scroll, 'backspace', 'delete', arrows up/down/left/right
+  - 'enter', 'space'
+  - "back to desktop", "show all active windows"
+  - 'tab', 'alt+tab', 'ctrl+tab'
+  - voice input
+  - circle selection
+  - numbers 0~9 input
