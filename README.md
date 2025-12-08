@@ -4,7 +4,10 @@ I am a 15+ years ASIC and system design engineer, and this thumb-worn smart ring
 
 ![mRing overview](images/mRing_overview.png)
 
+The main idea is using a macro lens to capture actions between thumb pulb and lateral side of other fingers as gestures to control GUI or as key input, while using a outside scene cam to capture display and calculate it with thumb direction as cursor location.
 ![finger-cam-view](images/finger-cam-view.png)
+
+![cursor-location](images/cursor-location.png)
 
 ---
 
@@ -68,7 +71,7 @@ Perform gestures in mid-air to:
   
 - letters input with two hands
   ![basic-gui-operation-4](images/basic-gui-operation-4.png)
-
+  
 - circle selection
   ![basic-gui-operation-circle](images/basic-gui-operation-circle.png)
 
