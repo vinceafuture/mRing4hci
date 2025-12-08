@@ -18,12 +18,12 @@ Also it use a outside scene cam to capture display in the scene and use it with 
 I am a 15+ year IC and system enginer. I have a teenage son who likes much to play PC games like HOI4/Cards and watch related videos to learn how to play.
 Seeing him always sit whole day to play and develop early symptoms of wrist stress and other issue forced me to rethink the input devices we all still rely on.
 
+![PC mouse issue](images/PC_mouse_issue.png)
+
 **Why are we still using mouse and keyboard in a world with AI computing, mature voice tech and powerful agents?**
 **Can we control the PC over the air while standing or laying down?**
 
-![PC mouse issue](images/PC_mouse_issue.png)
-
-This question led me to create **mRing**, an input device that support complex GUI operation and keyboard input on PC, inlcuding cursor positioning, common GUI operations, numbers/letters input and new circle-to-X operations. mRing also aligns with the next decade of AI-native interaction.
+This question led me to create **mRing**: it supports complex GUI operation and keyboard input on PC, inlcuding cursor positioning, common GUI operations, numbers/letters input, voice input control and newly popular AI enabled circle-to-X operations. 
 
 ![mRing_capability](images/mRing_capability.png)
 
@@ -55,17 +55,17 @@ mRing combines:
 
 ---
 
-## 🧩 Key Features
+## 🧩 Main Features
 
-### 1. **Gesture-based control**
-Perform gestures in mid-air to:
-- mouse clicks and scroll, and basic keys 
+### 1. **Thumb Gesture-based control**
+Perform gestures in mid-air and mapping to GUI operation/inputs:
+- mouse clicks and scroll, and basic keys input 
   ![basic-gui-operation-1](images/basic-gui-operation-1.png)
   
-- other keys and shortcut with multi finger gesture
+- other keys input and shortcut with multi finger gesture
   ![basic-gui-operation-2](images/basic-gui-operation-2.png)
   
-- number input
+- numbers input
   ![basic-gui-operation-3](images/basic-gui-operation-3.png)
   
 - letters input with two hands
