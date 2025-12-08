@@ -18,8 +18,8 @@ Also it use a outside scene cam to capture display in the scene and use it with 
 I am a 15+ year IC and system enginer. I have a teenage son who likes much to play PC games like HOI4/Cards and watch related videos to learn how to play.
 Seeing him always sit whole day to play and develop early symptoms of wrist stress and other issue forced me to rethink the input devices we all still rely on.
 
-**Why are we still using mouse and keyboard — technologies invented 40 years ago — in a world with AI computing, mature voice tech and powerful agents?**
-**Can we control the PC over the air while we are standing or laying down?**
+**Why are we still using mouse and keyboard in a world with AI computing, mature voice tech and powerful agents?**
+**Can we control the PC over the air while standing or laying down?**
 
 ![PC mouse issue](images/PC_mouse_issue.png)
 
