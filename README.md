@@ -12,7 +12,7 @@ Also it use a outer scene lens to capture display in the scene to calculate curs
 
 Comparison of mRing with other major platforms: PC and smartphone.
 
-![mring-comparison](images/mRing-comparison-en-2.png)
+![mring-comparison](images/mRing-comparison-en-v3.png)
 
 ---
 
@@ -52,13 +52,13 @@ mRing combines:
 ### 1. **Thumb Gesture-based control**
 Perform gestures in mid-air and mapping to GUI operation/inputs:
 - mouse clicks and scroll, and basic keys input 
-  ![basic-gui-operation-1](images/basic-gui-operation-1.png)
+  ![basic-gui-operation-1](images/basic-gui-operation-1-v3.png)
   
 - other keys input and shortcut with multi finger gesture
-  ![basic-gui-operation-2](images/basic-gui-operation-2.png)
+  ![basic-gui-operation-2](images/basic-gui-operation-2-v2.png)
   
 - numbers input
-  ![basic-gui-operation-3](images/basic-gui-operation-3.png)
+  ![basic-gui-operation-3](images/basic-gui-operation-3-v2.png)
   
 - letters input with two hands
   ![basic-gui-operation-4](images/basic-gui-operation-4.png)
