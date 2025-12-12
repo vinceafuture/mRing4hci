@@ -4,7 +4,7 @@ mRing, a smart ring worn on the thumb, is designed to support multimodal mid-air
 
 ![mRing overview](images/mRing_overview.png)
 
-The main idea is using an inner macro lens to capture micro tough gestures between thumb pulb and lateral side of other fingers, then map to operations of GUI control or key input. as below diagram:
+The main idea is using an inner macro lens to capture micro touch gestures between thumb pulb and lateral side of other fingers, then map to operations of GUI control or key input. as below diagram:
 ![finger-cam-view](images/finger-cam-view.png)
 
 Also it use a outer scene lens to capture display in the scene to calculate cursor location indicated by the pointing direction of the thumb. IMU is also used to assist in above calculations.
