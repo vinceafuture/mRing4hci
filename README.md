@@ -1,5 +1,7 @@
 **mRing**: thumb-worn multimodal smart Ring for mid-air HCI.
 
+![mRing real](images/ring-thumb.jpg).
+
 mRing, a smart ring worn on the thumb, is designed to support multimodal mid-air interactions with Computers/TV/Phone/AI/Robots. It capture micro touch gestures between thumb and other four fingers and interpret them to GUI operation or inputs. Users can use it to replace mouse&keyboard or remote control, to control voice input and circle selection, and also for intuitive manipulation of robots and smart home systems.
 
 ![mRing overview](images/mRing_overview.png)
