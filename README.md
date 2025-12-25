@@ -2,7 +2,7 @@
 
 mRing, a smart ring worn on the thumb, is designed to support multimodal mid-air interactions with Computers/TV/Phone/AI/Robots. It capture micro touch gestures between thumb and other four fingers and interpret them to GUI operation or inputs. Users can use it to replace mouse&keyboard or remote control, to control voice input and circle selection, and also for intuitive manipulation of robots and smart home systems.
 
-![mRing real](images/ring-thumb-small.jpg).
+![mRing real](images/ring-thumb-small.png).
 
 The main idea is using an inner macro lens to capture micro touch gestures between thumb pulb and pulb & lateral side of other fingers, then map to operations of GUI control or key input. as below diagram:
 ![finger-cam-view](images/finger-cam-view.png)
