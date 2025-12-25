@@ -57,7 +57,7 @@ Perform gestures in mid-air and mapping to GUI operation/inputs:
 - other keys input and shortcut with multi finger gesture
   ![basic-gui-operation-2](images/basic-gui-operation-2-v2.png)
   
-- numbers input
+- numbers input or fast choosing of operation options
   ![basic-gui-operation-3](images/basic-gui-operation-3-v2.png)
   
 - letters input with two hands
