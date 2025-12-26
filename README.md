@@ -1,6 +1,6 @@
 **mRing**: thumb-worn multimodal smart Ring for mid-air HCI.
 
-It captures micro touch gestures between thumb and other four fingers and interpret them to GUI operation or inputs, and use a camera to capture screen and calculates thumb pointing point as cursor location. you can use it as a alternative to mouse&keyboard or remote control, also a new way to control voice input and circle selection. it can also be used for intuitive manipulation of robots and smart home systems.
+It captures micro touch gestures between thumb and other four fingers and interpret them to GUI operation or inputs, and uses a camera to capture screen and calculates out thumb pointing point on screen as cursor location. you can use it as a alternative to mouse&keyboard or remote control, also a new way to control voice input and circle selection. it can also be used for intuitive manipulation of robots and smart home systems.
 
 ![mRing real](images/ring-thumb-small.png).
 
