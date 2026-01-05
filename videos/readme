@@ -5,6 +5,7 @@ mRing operations:
   - click, right click
   - cursor positioning
   - scroll, 'backspace', 'delete', arrows up/down/left/right
+  - zoom in, zoom out
   - 'enter', 'space'
   - "back to desktop", "show all active windows"
   - 'tab', 'alt+tab', 'ctrl+tab'
