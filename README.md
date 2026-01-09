@@ -51,6 +51,8 @@ mRing combines:
 
 ### 1. **Thumb Gesture-based control**
 Perform gestures in mid-air and mapping to GUI operation/inputs:
+You can check the mp4 video in /videos to get more intuitive understanding of below gestures.
+
 - mouse clicks and scroll, and basic keys input 
   ![basic-gui-operation-1](images/basic-gui-operation-1-v3.png)
   
